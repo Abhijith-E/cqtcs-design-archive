@@ -1,7 +1,7 @@
 CQTCS Design Archive
 
 Official design and visual communication repository for  
-CQTCS — Center for Quantum Technologies and Complex Systems**  
+CQTCS — Center for Quantum Technologies and Complex Systems 
 CHRIST (Deemed to be University), Bangalore.
 
 About
