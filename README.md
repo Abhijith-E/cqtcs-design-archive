@@ -39,7 +39,7 @@ cqtcs-design-archive/
 │
 ├── 📂 posters/              ← Posters categorized by purpose
 │   ├── 📂 courses/
-│   ├── 📂 events/           ← e.g. Quantum Event with Engg, Beyond Superposition
+│   ├── 📂 events/           ← e.g. Quantum Event with Engg, Beyond Superposition, QTech-Photonics-Workshop
 │   ├── 📂 publications/     ← Research and publication posters (e.g. Kibble Zurek)
 │   └── 📂 recruitment/
 │
@@ -56,7 +56,7 @@ Contains official branding materials and partner logos used across all publicati
 
 ### 2. `posters/`
 High-quality posters designed for various department needs.
-- `events/`: Posters for guest lectures, symposiums, and departmental events.
+- `events/`: Posters for guest lectures, symposiums, and departmental events (e.g., QTech-Photonics-Workshop).
 - `publications/`: Visual summaries of research papers and academic publications.
 - `courses/` & `recruitment/`: Posters for academic programs and hiring.
 
